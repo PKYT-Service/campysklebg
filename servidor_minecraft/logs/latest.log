@@ -1,102 +1,71 @@
-[20:18:07] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[20:18:08] [main/INFO]: Loading 4 mods:
+[20:37:11] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[20:37:11] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.4
-[20:18:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/campysklebg/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:18:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:18:16] [main/INFO]: Found new data pack file/Veinminer-1.2.4.zip, loading it automatically
-[20:18:16] [main/INFO]: Found new data pack file/treecapitator-v3.1.4.zip, loading it automatically
-[20:18:19] [main/INFO]: Loaded 1370 recipes
-[20:18:19] [main/INFO]: Loaded 1481 advancements
-[20:18:20] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:18:20] [Server thread/INFO]: Loading properties
-[20:18:20] [Server thread/INFO]: Default game type: SURVIVAL
-[20:18:20] [Server thread/INFO]: Generating keypair
-[20:18:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:18:20] [Server thread/INFO]: Using epoll channel type
-[20:18:20] [Server thread/INFO]: Preparing level "world"
-[20:18:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:27] [Server thread/INFO]: Time elapsed: 7016 ms
-[20:18:27] [Server thread/INFO]: Done (7.395s)! For help, type "help"
-[20:18:28] [Server thread/INFO]: [Not Secure] [Server] Veinminer Loaded!
-[20:19:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:22:29] [User Authenticator #1/INFO]: UUID of player PikaYut is 6ef839f1-c5f3-4aeb-a256-8d645337f02a
-[20:22:31] [Server thread/INFO]: PikaYut[/127.252.128.87:41169] logged in with entity id 33 at (125.5, 86.0, -337.5)
-[20:22:31] [Server thread/INFO]: PikaYut joined the game
-[20:23:02] [User Authenticator #2/INFO]: UUID of player batuh_dtg is 0c993030-aebc-47bf-ab8e-2c6b92693183
-[20:23:03] [Server thread/INFO]: batuh_dtg[/127.252.128.87:50531] logged in with entity id 303 at (124.5, 80.0, -327.5)
-[20:23:03] [Server thread/INFO]: batuh_dtg joined the game
-[20:25:54] [Server thread/INFO]: Made PikaYut a server operator
-[20:26:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=110, y=74, z=-327} class_2338{x=112, y=73, z=-328}
-[20:26:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=112, y=74, z=-329}
-[20:26:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=112, y=74, z=-330}
-[20:26:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=113, y=77, z=-331}
-[20:26:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=113, y=77, z=-331}
-[20:26:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=113, y=77, z=-330}
-[20:26:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=112, y=75, z=-331}
-[20:26:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=112, y=75, z=-331}
-[20:26:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=113, y=74, z=-329}
-[20:26:23] [Server thread/INFO]: PikaYut has made the advancement [Monster Hunter]
-[20:26:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=113, y=77, z=-331}
-[20:26:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=113, y=78, z=-331}
-[20:26:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=113, y=77, z=-336}
-[20:26:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=75, z=-331} class_2338{x=113, y=77, z=-336}
-[20:26:40] [Server thread/INFO]: batuh_dtg was slain by Zombie
-[20:26:45] [Server thread/INFO]: PikaYut was slain by Zombie
-[20:26:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=117, y=75, z=-333}
-[20:26:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=117, y=75, z=-334}
-[20:26:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=116, y=75, z=-334}
-[20:26:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=115, y=75, z=-334}
-[20:26:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-335}
-[20:26:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=75, z=-334}
-[20:26:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-335}
-[20:26:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=115, y=75, z=-335}
-[20:26:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-335}
-[20:26:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=113, y=76, z=-334}
-[20:27:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-333}
-[20:27:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-333}
-[20:27:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-333}
-[20:27:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-333}
-[20:27:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-333}
-[20:27:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-333}
-[20:27:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=114, y=76, z=-333}
-[20:27:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=115, y=76, z=-336}
-[20:27:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=115, y=75, z=-335}
-[20:29:22] [Server thread/INFO]: PikaYut has made the advancement [Stone Age]
-[20:29:45] [Server thread/INFO]: PikaYut has made the advancement [Getting an Upgrade]
-[20:31:21] [Server thread/INFO]: batuh_dtg has made the advancement [Stone Age]
-[20:32:35] [Server thread/INFO]: [PikaYut: Reloading!]
-[20:32:35] [Server thread/INFO]: Loaded 1370 recipes
-[20:32:35] [Server thread/INFO]: Loaded 1481 advancements
-[20:32:36] [Server thread/INFO]: [Not Secure] [Server] Veinminer Loaded!
-[20:32:43] [Server thread/WARN]: Failed to update secure chat state for PikaYut: 'Chat disabled due to missing profile public key. Please try reconnecting.'
-[20:32:43] [Server thread/INFO]: <PikaYut> Stop
-[20:32:48] [Server thread/INFO]: [PikaYut: Stopping the server]
-[20:32:48] [Server thread/INFO]: Stopping server
-[20:32:48] [Server thread/INFO]: Saving players
-[20:32:48] [Server thread/INFO]: batuh_dtg lost connection: Server closed
-[20:32:48] [Server thread/INFO]: batuh_dtg left the game
-[20:32:48] [Server thread/INFO]: Saving worlds
-[20:32:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:32:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:32:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:32:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:32:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:32:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:32:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:37:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/campysklebg/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:37:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:37:21] [main/WARN]: Missing data pack file/treecapitator-v3.1.4.zip
+[20:37:24] [main/INFO]: Loaded 1370 recipes
+[20:37:24] [main/INFO]: Loaded 1481 advancements
+[20:37:24] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:37:24] [Server thread/INFO]: Loading properties
+[20:37:24] [Server thread/INFO]: Default game type: SURVIVAL
+[20:37:24] [Server thread/INFO]: Generating keypair
+[20:37:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:37:24] [Server thread/INFO]: Using epoll channel type
+[20:37:24] [Server thread/INFO]: Preparing level "world"
+[20:37:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:37:33] [Server thread/INFO]: Time elapsed: 7810 ms
+[20:37:33] [Server thread/INFO]: Done (8.225s)! For help, type "help"
+[20:37:33] [Server thread/INFO]: [Not Secure] [Server] Veinminer Loaded!
+[20:37:39] [User Authenticator #1/INFO]: UUID of player batuh_dtg is 0c993030-aebc-47bf-ab8e-2c6b92693183
+[20:37:40] [Server thread/INFO]: batuh_dtg[/127.252.128.87:39295] logged in with entity id 36 at (97.6815462562487, 73.0, -314.81673947748277)
+[20:37:40] [Server thread/INFO]: batuh_dtg joined the game
+[20:38:11] [Server thread/INFO]: batuh_dtg has made the advancement [Getting an Upgrade]
+[20:41:09] [User Authenticator #2/INFO]: UUID of player PikaYut is 6ef839f1-c5f3-4aeb-a256-8d645337f02a
+[20:41:10] [Server thread/INFO]: PikaYut[/127.252.128.87:51597] logged in with entity id 885 at (97.69999998807907, 69.0, -323.5109128630649)
+[20:41:10] [Server thread/INFO]: PikaYut joined the game
+[20:41:24] [Server thread/INFO]: [PikaYut: Reloading!]
+[20:41:25] [Server thread/INFO]: Loaded 1370 recipes
+[20:41:25] [Server thread/INFO]: Loaded 1481 advancements
+[20:41:25] [Server thread/INFO]: [Not Secure] [Server] Veinminer Loaded!
+[20:41:57] [Server thread/INFO]: [PikaYut: Showing new actionbar title for 2 players]
+[20:42:04] [Server thread/INFO]: [PikaYut: Showing new actionbar title for 2 players]
+[20:42:15] [Server thread/INFO]: [PikaYut: Showing new actionbar title for 2 players]
+[20:46:16] [Server thread/INFO]: [PikaYut: Reloading!]
+[20:46:17] [Server thread/INFO]: Loaded 1370 recipes
+[20:46:17] [Server thread/INFO]: Loaded 1481 advancements
+[20:46:17] [Server thread/INFO]: [Not Secure] [Server] Veinminer Loaded!
+[20:49:10] [Server thread/INFO]: PikaYut lost connection: Disconnected
+[20:49:10] [Server thread/INFO]: PikaYut left the game
+[20:52:11] [Server thread/INFO]: Stopping the server
+[20:52:11] [Server thread/INFO]: Stopping server
+[20:52:11] [Server thread/INFO]: Saving players
+[20:52:11] [Server thread/INFO]: batuh_dtg lost connection: Server closed
+[20:52:11] [Server thread/INFO]: batuh_dtg left the game
+[20:52:11] [Server thread/INFO]: Saving worlds
+[20:52:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:52:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:52:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
