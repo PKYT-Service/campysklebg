@@ -1,12 +1,12 @@
-[19:42:07] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[19:42:07] [main/INFO]: Loading 4 mods:
+[19:42:42] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[19:42:43] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.4
-[19:42:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/campysklebg/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:42:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:42:18] [main/ERROR]: Failed to start the minecraft server
+[19:42:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/campysklebg/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:42:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:42:52] [main/ERROR]: Failed to start the minecraft server
 net.minecraft.class_5125$class_5126: /workspaces/campysklebg/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
 	at knot/net.minecraft.class_5125$class_5126.method_26805(class_5125.java:95) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_5125.method_26803(class_5125.java:41) ~[server-intermediary.jar:?]
